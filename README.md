@@ -1,6 +1,6 @@
 - 👋 Esenlikler, Ben Çağan Mert İŞLEK. HereUS'ın geliştiricisiyim.
-- 👀 Ç ve Python dilleri ile ilgileniyorum.
-- 🌱 Assembly dilini öğrenmeyi planlıyorum.
+- 👀 Ç, Python, HTML, JS, CSS, Kotlin dilleri ile ilgileniyorum. Diğer bildiğim dilleri pek kullanmıyorum.
+- 🌱 Yeni bir kodlama dili öğrenmiyorum.
 - 📫 Bana ulaşmak için [HereUS Hesabım](http://hereus.pythonanywhere.com/user/islekcaganmert%40gmail.com)
 
 <!---
