@@ -57,8 +57,6 @@ I am a Entrepreneur from Türkiye 🇹🇷
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rapid7/metasploit-framework/blob/master/lib/msf/core/web_services/public/favicon.ico" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="40" height="40"/>&nbsp;
 </p>
 
 ---
