@@ -14,6 +14,9 @@
   <a href="https://t.me/islekcaganmert" target="_blank">
     <img src="https://telegram.org/favicon.ico" height="30" width="30">
   </a>&nbsp;
+  <a href="https://www.youtube.com/islekcaganmert" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" width="30">
+  </a>&nbsp;
   <a href="https://mastodon.social/@islekcaganmert" target="_blank">
     <img src="https://mastodon.social/favicon.ico" height="30" width="30">
   </a>&nbsp;
