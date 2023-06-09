@@ -1,7 +1,7 @@
 - 👋 Hi, I am Çağan Mert İŞLEK. I am the owners of Bars Electronics and HereUS Social Media.
-- 👀 I am interested in Ç, Python, HTML, JS, CSS and Kotlin. I don't use other languages I know that much...
-- 🌱 Currently learning subjects of Software Engineering as I found in web.
-- 📫 To reach me [My HereUS Account](http://hereus.pythonanywhere.com/user/islekcaganmert%40gmail.com)
+- 👀 I am interested in C++, Bash, Python, Flask, JS, Kotlin and C#.
+- 🌱 Currently learning competitive programming.
+- 📫 To reach me [My HereUS Account](http://hereus.pythonanywhere.com/user/islekcaganmert)
 
 <!---
 islekcaganmert/islekcaganmert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
