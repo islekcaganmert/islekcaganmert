@@ -36,7 +36,7 @@
 I am a Full Stack Developer
 - 👀 I am interested in C++, Bash, Python, Flask, JS, Kotlin and C#.
 - 🌱 Currently learning competitive programming.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I create random apps and scripts.
 - 📫 To reach me [My HereUS Account](http://hereus.pythonanywhere.com/user/islekcaganmert)
 
 ---
