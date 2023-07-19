@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://threads.net/@islekcaganmert" target="_blank">
+    <img src="https://www.threads.net/favicon.ico" height="30" width="30">
+  </a>&nbsp;
   <a href="https://www.instagram.com/islekcaganmert" target="_blank">
     <img src="https://www.instagram.com/favicon.ico" height="30" width="30">
   </a>&nbsp;
