@@ -3,7 +3,7 @@ I am a Full Stack Developer
 - 👀 I am interested in Go, Python, TypeScript, Web, Java, C#, and Assembly.
 - 🌱 Currently working on a new web protocol.
 - ⚡ In my free time I create apps based on my new invention.
-- ⏎ Using GitHub for
+- ⏎ Using GitHub for visibility, main Git account is on [HereUS](https://git.hereus.net/islekcaganmert)
 - 📫 To reach me [email me](mailto:islekcaganmert@gmail.com) or [mention me on HereUS](http://www.hereus.net/user/islekcaganmert)
 
 ---
