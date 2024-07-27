@@ -5,7 +5,7 @@ I am a Full Stack Developer
 - I am interested in Python, Go, JavaScript, Assembly
 - Currently developing apps to prove the usability and benefits of [TheProtocols](https://github.com/islekcaganmert/TheProtocols)
 - In my free time I create alternative apps based on the power of [TheProtocols](https://github.com/islekcaganmert/TheProtocols)
-- To reach me [email me](mailto:islekcaganmert@gmail.com) or [mention me on fediverse](https://pebble.social/@islekcaganmert)
+- To reach me [email me](mailto:islekcaganmert@gmail.com) or [mention me on X](https://x.com/islekcaganmert)
 
 ### My Stats:
 
