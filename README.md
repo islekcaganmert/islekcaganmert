@@ -1,22 +1,25 @@
-### About Me:
+### 👋 I am a Full Stack Developer who;
 
-I am a Full Stack Developer
+- Codes in Python, Rust, TypeScript, C#, Java, and Go
+- Develops apps of future powered by [TheProtocols](https://github.com/islekcaganmert/TheProtocols)
 
-- I am interested in Python, Go, JavaScript, Assembly
-- Currently developing apps to prove the usability and benefits of [TheProtocols](https://github.com/islekcaganmert/TheProtocols)
-- In my free time I create alternative apps based on the power of [TheProtocols](https://github.com/islekcaganmert/TheProtocols)
-- To reach me [email me](mailto:islekcaganmert@gmail.com) or [mention me on X](https://x.com/islekcaganmert)
+### 👨‍💻 You can check these projects of mine:
 
-### My Stats:
+- [TheProtocols](https://github.com/islekcaganmert/TheProtocols): Federated protocol for decentralizing super apps by letting people choose a network and a client they want.
+- [BevyFrame](https://github.com/islekcaganmert/bevyframe): Python Web Framework that turns your Python scripts to a web page. With decentralized features integrated, it makes programming easier than ever.
+- [pymake](https://github.com/islekcaganmert/pymake): Automatic Python development environment manager.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=islekcaganmert&show_icons=true&theme=transparent)
+### 📑 Check out my HereUS Articles page!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islekcaganmert&layout=compact&theme=vision-friendly-light)
+&nbsp; &nbsp; [@islekcaganmert@hereus.net on HereUS Articles](https://articles.hereus.net/Profile.py?addr=islekcaganmert@hereus.net)
 
-![Views](https://komarev.com/ghpvc/?username=islekcaganmert&style=flat&color=lightgrey&abbreviated=true)
+### 📫 To reach me;
+- [email me](mailto:hello@islekcaganmert.me)
+- [mention me on X](https://x.com/islekcaganmert)
+- [mention me on Bluesky](https://bsky.app/profile/islekcaganmert.me)
+
+**🌐 For more, visit [my website](https://islekcaganmert.me/)**
 
 &nbsp;
 
-For more, visit [my website](https://islekcaganmert.vercel.app/)
-
-<a href="https://www.buymeacoffee.com/islekcaganmert" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+![Views](https://komarev.com/ghpvc/?username=islekcaganmert&style=flat&color=lightgrey&abbreviated=true)
