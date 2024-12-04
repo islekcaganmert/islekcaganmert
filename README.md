@@ -19,7 +19,3 @@
 - [mention me on Bluesky](https://bsky.app/profile/islekcaganmert.me)
 
 **🌐 For more, visit [my website](https://islekcaganmert.me/)**
-
-&nbsp;
-
-![Views](https://komarev.com/ghpvc/?username=islekcaganmert&style=flat&color=lightgrey&abbreviated=true)
